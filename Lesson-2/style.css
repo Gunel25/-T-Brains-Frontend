@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+h1 {
+    font-size: xxx-large;
+}
+
+img {
+    width: 80px;
+    margin-bottom: 2rem;
+}
+
+.box {
+    width: 20%;
+    /* border: 1px solid black; */
+    /* display: inline-block; */
+    margin: 0 2rem;
+    text-align: center;
+}
+
+.d-flex {
+    margin-top: 5rem;
+    display: flex;
+    flex-wrap: wrap;
+    /* flex-direction: column;  */
+}
+
+.textHead {
+    margin: 1rem 0 2rem 0;
+    text-align: center;
+}
+
+.title {
+    background-color: #F4FCFA;
+}
+.line{
+    background-color: #12f7bd;
+    height: 4px;
+    width: 200px;
+    margin: auto;
+}
+.description {
+    text-align: center;
+}
+
+h2 {
+    padding-bottom: 1rem;
+}
+
+.Courses {
+    margin-top: 4rem;
+    background-color: #F8F8F8;
+}
+
+.card {
+    width: 15.15%;
+    height: 250px;
+    /* border: 1px solid black; */
+    /* display: inline-block; */
+    margin: 1rem 0.5rem;
+    text-align: center;
+    padding-top: 2rem;
+    background-color: white;
+}
+
+.textH {
+    padding-top: 1rem;
+    text-align: center;
+    color: #007B00;
+}
+
+h5 {
+    padding: 1rem;
+    color: #007B00;
+}
+
+.line{
+    text-align: center;
+    color: #007B00;
+}
