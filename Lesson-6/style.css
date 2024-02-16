@@ -1,0 +1,28 @@
+.navs .topNavbar li{
+    list-style-type: none;
+}
+
+.navs .topNavbar {
+    background-color: #052F48;
+}
+
+.navs .topNavbar .icons{
+    width: 9%;
+    text-align: center;    
+}
+
+.carousel-item{
+    height: 808px;
+    background-position: center;
+}
+
+img{
+    filter: brightness(0.5);
+} 
+
+.carouselText{
+    position: absolute;
+}
+
+.carousel-inner{
+position: relative;}
